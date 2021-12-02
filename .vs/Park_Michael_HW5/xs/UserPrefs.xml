@@ -1,0 +1,83 @@
+﻿<Properties StartupConfiguration="{43B913DC-4D55-497B-8F88-DCD146250CB3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Park__Michael__HW5 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Park_Michael_HW5/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Park_Michael_HW5/DAL/AppDbContext.cs" Line="24" Column="1" />
+      <File FileName="Park_Michael_HW5/Startup.cs" />
+      <File FileName="Park_Michael_HW5/Models/AppUser.cs" Line="1" Column="1" />
+      <File FileName="Park_Michael_HW5/Controllers/AccountController.cs" />
+      <File FileName="Park_Michael_HW5/Controllers/RoleAdminController.cs" />
+      <File FileName="Park_Michael_HW5/Controllers/SeedController.cs" />
+      <File FileName="Park_Michael_HW5/Seeding/SeedUsers.cs" />
+      <File FileName="Park_Michael_HW5/Utilities/AddUser.cs" />
+      <File FileName="Park_Michael_HW5/Views/Account/ChangePassword.cshtml" />
+      <File FileName="Park_Michael_HW5/Models/ViewModels/AccountViewModels.cs" />
+      <File FileName="Park_Michael_HW5/Views/Account/Register.cshtml" />
+      <File FileName="Park_Michael_HW5/Models/ViewModels/RoleViewModels.cs" />
+      <File FileName="Park_Michael_HW5/Seeding/SeedRoles.cs" />
+      <File FileName="Park_Michael_HW5/Models/Product.cs" />
+      <File FileName="Park_Michael_HW5/Models/Supplier.cs" />
+      <File FileName="Park_Michael_HW5/Models/Order.cs" />
+      <File FileName="Park_Michael_HW5/Models/OrderDetail.cs" />
+      <File FileName="Park_Michael_HW5/Views/Account/Index.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Account/Login.cshtml" />
+      <File FileName="Park_Michael_HW5/_ViewImports.cshtml" />
+      <File FileName="Park_Michael_HW5/Controllers/HomeController.cs" />
+      <File FileName="Park_Michael_HW5/Views/Home/Index.cshtml" Line="11" Column="22" />
+      <File FileName="Park_Michael_HW5/Views/Shared/_LoginPartial.cshtml" />
+      <File FileName="Park_Michael_HW5/Program.cs" />
+      <File FileName="Park_Michael_HW5/Controllers/ProductsController.cs" />
+      <File FileName="Park_Michael_HW5/Views/Products/Create.cshtml" />
+      <File FileName="Park_Michael_HW5/Controllers/OrdersController.cs" />
+      <File FileName="Park_Michael_HW5/Controllers/OrderDetailsController.cs" />
+      <File FileName="Park_Michael_HW5/Views/Products/Index.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Shared/_Layout.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Products/Details.cshtml" />
+      <File FileName="Park_Michael_HW5/Controllers/SuppliersController.cs" />
+      <File FileName="Park_Michael_HW5/Views/Suppliers/Edit.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Suppliers/Index.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Products/Edit.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Suppliers/Create.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Suppliers/Details.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Orders/Index.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Orders/Create.cshtml" />
+      <File FileName="Park_Michael_HW5/Utilities/GenerateNextOrderNumber.cs" />
+      <File FileName="Park_Michael_HW5/Views/OrderDetails/Create.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Orders/Details.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/Orders/Edit.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/OrderDetails/Index.cshtml" />
+      <File FileName="Park_Michael_HW5/Views/OrderDetails/Edit.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Park_Michael_HW5" expanded="True">
+            <Node name="Park_Michael_HW5" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Seeding" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Products" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
